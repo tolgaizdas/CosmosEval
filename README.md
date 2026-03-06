@@ -1,6 +1,6 @@
-# cosmos-eval
+# CosmosEval
 
-cosmos-eval is a tool designed for evaluating LLMs on a variety of tasks, specifically for Turkish. It supports few-shot learning, custom metric evaluation, and provides options for running on different devices.
+CosmosEval is a tool designed for evaluating LLMs on a variety of tasks, specifically for Turkish. It supports few-shot learning, custom metric evaluation, and provides options for running on different devices.
 
 ## Available Tasks and Datasets
 
@@ -20,13 +20,13 @@ Here are the tasks and the corresponding datasets used for evaluation. Some data
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/tolgaizdas/cosmos-eval.git
+git clone https://github.com/tolgaizdas/CosmosEval.git
 ```
 
 ### 2. Navigate to the Directory
 
 ```bash
-cd cosmos-eval
+cd CosmosEval
 ```
 
 ### 3. Create a Virtual Environment
